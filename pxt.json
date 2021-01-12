@@ -1,0 +1,28 @@
+{
+    "name": "sukhdeo_valerie_sound",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-express": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.14.10",
+        "tag": "v0.14.10",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/c8abf0b275f39256d85874deabb8f610f2ea7961",
+        "target": "0.14.10",
+        "pxt": "6.8.10",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
